@@ -1,0 +1,10 @@
+attacks:
+  - mode: deauth
+    target_ap: "00:11:22:33:44:55"
+    target_client: "66:77:88:99:AA:BB"
+    power: 50
+    count: 100
+  - mode: beacon_flood
+    num_aps: 15
+  - mode: evil_twin
+    real_ap_ssid: "MyHomeWiFi"
