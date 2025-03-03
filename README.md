@@ -41,7 +41,7 @@ evil_twin:
 
 ## Attacks
 
-###Spoofing MAC Address
+### Spoofing MAC Address
 
 Run the script in monitor mode:
 
